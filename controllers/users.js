@@ -3,4 +3,4 @@ var express = require('express')
 
 // Define routes handling profile requests
 
-module.exports = router
+module.exports = router;
